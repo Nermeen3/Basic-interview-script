@@ -14,3 +14,5 @@ Rules:
         Consider floats as string.
         Any line that doesn't apply to any previous rule, print "INVALID LINE" message.
         You must run your code in a TCL interpreter, you should deliver a running and a "syntax errors" free script.
+Note:
+        the problem is solved in python as well as TCL
